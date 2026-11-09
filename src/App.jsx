@@ -1,5 +1,8 @@
+import Box from "./components/Box";
+
 function App() {
-    return <>Hello World! test</>;
+    return <Box />;
+
 }
 
 export default App;
